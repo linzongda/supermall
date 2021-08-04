@@ -1,0 +1,36 @@
+{
+  "name": "mall",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "better-scroll": "^1.13.2",
+    "core-js": "^3.6.5",
+    "element-plus": "^1.0.2-beta.28",
+    "fastclick": "^1.0.6",
+    "mitt": "^2.1.0",
+    "vue": "^3.0.0",
+    "vue-cli-configjs": "^2.0.0",
+    "vue-router": "^4.0.0-0",
+    "vue3-lazy": "^1.0.0-alpha.1",
+    "vuex": "^4.0.0-0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-plugin-vuex": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "babel-plugin-import": "^1.13.3",
+    "css-loader": "^3.6.0",
+    "sass": "^1.27.0",
+    "sass-loader": "^10.0.4",
+    "style-loader": "^2.0.0",
+    "vue-cli-plugin-element-plus": "~0.0.13"
+  }
+}

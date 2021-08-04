@@ -1,0 +1,59 @@
+body{
+	padding: 0;
+	margin: 0;
+	/*background-image: url(../login1.jpeg);*/
+	/*background-repeat: no-repeat;*/
+	/*-webkit-background-size:100% auto  ;*/
+	/*background-size:100% auto ;*/
+}
+#maxbox{
+	margin: 0 auto;
+	margin-top: 150px;
+	padding: 20px 50px;
+	background-color: #479AC730;
+	text-align: center;
+	width: 400px;
+	height: 300px;
+}
+
+#maxbox h1{
+	padding: 0;
+	padding-top: 40px;
+	color: white;
+	font-style: 30px;
+}
+
+#maxbox .inputbox{
+	margin-top: 30px;
+}
+#maxbox .inputText{
+	margin-top: 20px;
+}
+
+#maxbox .inputbox input{
+	border: 0;
+	padding: 6px;
+	border-bottom: 1px solid white;
+	background-color: #ffffff00;
+	color: white;
+}
+
+#maxbox .inputbox .inputButton{
+	margin: 0;
+	margin-top: 20px;
+	width: 150px;
+	height: 25px;
+	border-radius: 25px;
+	color: white;
+	background-image: linear-gradient(120deg,#a6c0fe 0%,#f68084 100%);
+}
+#sign_up{
+	margin-top: 20px;
+	color: white;
+	font-style: 17px;
+}
+#sign_up a{
+	color:#3498db;
+
+
+}
